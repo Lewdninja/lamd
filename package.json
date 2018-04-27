@@ -15,8 +15,15 @@
   "author": "TheCoder75",
   "license": "GPL-3.0",
   "dependencies": {
-    "liveme-api": "^1.2.6",
+    "liveme-api": "lewdninja/liveme-api",
     "fluent-ffmpeg": "^2.1.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
 }
