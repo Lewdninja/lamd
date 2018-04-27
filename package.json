@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thecoder75/lamd"
+    "url": "https://github.com/lewdninja/lamd"
   },
   "scripts": {
     "start": "node lamd.js",
